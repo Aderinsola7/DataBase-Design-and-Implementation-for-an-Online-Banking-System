@@ -3,7 +3,7 @@ This project focuses on the end-to-end development of a robust database architec
 
 The scope of this project covers the full Database Development Life Cycle (DBLC), moving from initial conceptualization to advanced SQL implementation. My approach was rooted in creating a schema that not only supports daily banking operations—such as real-time fund transfers and account management—but also provides a foundation for sophisticated business reporting and decision-making.
 
-Development Stages & Architecture
+Development Stages & Architecture       
 The project was executed through a structured, multi-phase workflow:
 
 - Conceptual & Logical Design: I began by identifying the core entities essential to a banking ecosystem, including Customers, Accounts, Transactions, Overdue Fees, and Repayments. I defined the intricate relationships between these entities, such as the many-to-many mapping in the CustomerAccount associative table.
